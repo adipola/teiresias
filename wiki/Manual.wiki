@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#Dependencies, installation and execution steps required to run Teiresias.
 
 = Dependencies =
 
