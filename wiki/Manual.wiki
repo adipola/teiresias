@@ -1,4 +1,6 @@
+#summary Dependencies, installation and execution steps required to run Teiresias
 #labels Dependencies,Installation,Execution
+
 = Dependencies =
 
   * G++ compiler version 4.1`*` or higher
