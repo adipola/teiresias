@@ -1,4 +1,5 @@
-#Dependencies, installation and execution steps required to run Teiresias.
+#labels Dependencies,Installation,Execution
+#Dependencies, installation and execution steps required to run Teiresias
 
 = Dependencies =
 
